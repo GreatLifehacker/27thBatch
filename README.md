@@ -4,7 +4,7 @@
 
 ### Dependencies
 - Figlet
-- adb tools
+- android-tools
 - An Android Phone
 - A Computer running Linux
 
