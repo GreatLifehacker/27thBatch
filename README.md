@@ -3,7 +3,7 @@
 ## Batch APK Installation Tool
 
 ### Dependencies
-- Figlet
+- figlet
 - android-tools
 - An Android Phone
 - A Computer running Linux
