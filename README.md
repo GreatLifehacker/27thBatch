@@ -1,11 +1,11 @@
-### 27thBatch
+# 27thBatch
 
-##Batch APK Installation Tool
+## Batch APK Installation Tool
 
-#Dependencies
+### Dependencies
 <ol>
 <li>Figlet</li>
 <li>adb tools</li>
 <li>An Android Phone</li>
-<li>A Computer</li>
+<li>A Computer running Linux</li>
 </ol>
