@@ -17,7 +17,7 @@ do
 done
 }
 
-while [ "$N" -gt 0 ]
+while [ "$N" -gt 2 ]
 do
     installapk
 done
