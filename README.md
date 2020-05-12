@@ -11,6 +11,6 @@
 ### Usage
 - Clone or Download the repo
 - Extract apks onto the repo folder
-- Connect your phone to the Computer and grant debugging permissions on the phone
-- Run the installapk script
+- Connect your phone to the Computer and grant debugging permissions
+- Run installapk script
 - Watch them apks getting installed!
